@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/RPSLS-Game-ReactTS/static/css/main.e01ca659.chunk.css",
+    "main.js": "/RPSLS-Game-ReactTS/static/js/main.afb72176.chunk.js",
+    "main.js.map": "/RPSLS-Game-ReactTS/static/js/main.afb72176.chunk.js.map",
+    "runtime-main.js": "/RPSLS-Game-ReactTS/static/js/runtime-main.945464fc.js",
+    "runtime-main.js.map": "/RPSLS-Game-ReactTS/static/js/runtime-main.945464fc.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/RPSLS-Game-ReactTS/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.d1ababba.chunk.js": "/RPSLS-Game-ReactTS/static/js/2.d1ababba.chunk.js",
+    "static/js/2.d1ababba.chunk.js.map": "/RPSLS-Game-ReactTS/static/js/2.d1ababba.chunk.js.map",
+    "static/js/3.aeba918f.chunk.js": "/RPSLS-Game-ReactTS/static/js/3.aeba918f.chunk.js",
+    "static/js/3.aeba918f.chunk.js.map": "/RPSLS-Game-ReactTS/static/js/3.aeba918f.chunk.js.map",
+    "static/js/4.2a218c15.chunk.js": "/RPSLS-Game-ReactTS/static/js/4.2a218c15.chunk.js",
+    "static/js/4.2a218c15.chunk.js.map": "/RPSLS-Game-ReactTS/static/js/4.2a218c15.chunk.js.map",
+    "index.html": "/RPSLS-Game-ReactTS/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/RPSLS-Game-ReactTS/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.e01ca659.chunk.css.map": "/RPSLS-Game-ReactTS/static/css/main.e01ca659.chunk.css.map",
+    "static/js/2.d1ababba.chunk.js.LICENSE.txt": "/RPSLS-Game-ReactTS/static/js/2.d1ababba.chunk.js.LICENSE.txt",
+    "static/js/3.aeba918f.chunk.js.LICENSE.txt": "/RPSLS-Game-ReactTS/static/js/3.aeba918f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.945464fc.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.d1ababba.chunk.js",
+    "static/css/main.e01ca659.chunk.css",
+    "static/js/main.afb72176.chunk.js"
+  ]
+}
