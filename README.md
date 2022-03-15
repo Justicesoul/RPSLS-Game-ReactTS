@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Rock, Paper, Scissors, Lizard, Spock game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A working project can be found here: https://justicesoul.github.io/RPSLS-Game-ReactTS/.
 
 ## Available Scripts
 

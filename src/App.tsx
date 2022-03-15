@@ -42,11 +42,11 @@ const App = () => {
     return [];
   });
 
-  const [playClick] = useSound('/click2.wav');
+  const [playClick] = useSound('click2.wav');
   const [playWin, { stop }] = useSound(
     'https://www.pacdv.com/sounds/applause-sound/app-9.mp3'
   );
-  const [playLose] = useSound('/lose.mp3', { volume: soundVolume });
+  const [playLose] = useSound('lose.mp3', { volume: soundVolume });
   const [playFireplace] = useSound('fireplace.mp3', {
     volume: soundVolumeFireplace,
   });

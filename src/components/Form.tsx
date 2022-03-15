@@ -22,7 +22,7 @@ const Form: React.FC<FormProps> = ({
   setCloseModal,
 }) => {
   const [countdownToStart, setCountdownToStart] = useState(false);
-  const [playCountdown] = useSound('/countdown.wav');
+  const [playCountdown] = useSound('countdown.wav');
 
   const submit = (e: React.ChangeEvent<HTMLFormElement>) => {
     e.preventDefault();
